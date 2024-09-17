@@ -1,11 +1,11 @@
 name: Config Update
 
 on:
-  push:
-    branches: [ main ]
+  #push:
+    #branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 12 * * 2'
 
 jobs:
   build:
