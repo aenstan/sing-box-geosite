@@ -1,2 +1,2 @@
 payload:
-  - DOMAIN-SUFFIX,juliangip.com
+  - SRC-IP-CIDR,10.0.0.222/32
