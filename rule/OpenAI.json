@@ -48,7 +48,8 @@
         "generativelanguage",
         "openai",
         "openaicom-api",
-        "perplexity"
+        "perplexity",
+        "prodregistryv"
       ]
     },
     {
@@ -65,10 +66,10 @@
         "azurefd.net",
         "bard.google.com",
         "bing-shopping.microsoft-falcon.io",
-        "bing.com",
         "blob.core.windows.net",
         "cdn.cloudflare.net",
         "challenges.cloudflare.com",
+        "chat.com",
         "chatgpt.com",
         "chatgpt.livekit.cloud",
         "claude.ai",
@@ -77,7 +78,6 @@
         "clipdrop.co",
         "cloudflareinsights.com",
         "compute-pipe.com",
-        "copilot.microsoft.com",
         "deepmind.com",
         "deepmind.google",
         "dify.ai",
@@ -124,7 +124,6 @@
         "poe.com",
         "pplx.ai",
         "proactivebackend-pa.googleapis.com",
-        "prodregistryv2.org",
         "segment.io",
         "sentry.io",
         "statsigapi.net",
