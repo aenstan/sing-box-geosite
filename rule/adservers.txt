@@ -9,6 +9,13 @@
 !
 !
 !
+||shortterm-damage^$popup
+||news.jennydanny.com^
+||u57.muzikguide.com^
+||9pub.io^
+||uz-kqtecqs.space^
+||mqprzapns.com^
+||dzeaqmeuaql.com^
 ||bjjky.cfd^$all
 ||dsfvmx.click^
 ||mentionideablit.com^
@@ -703,6 +710,10 @@
 !+ NOT_OPTIMIZED
 ||api.smartnews-ads.com^
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/196097
+||tn.porngo.xxx^$badfilter
+||tn.porngo.xxx^$third-party,domain=~porngo.*
+!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/189721
 ! Opera promo on third-party sites
 ||88.208.46.222^$network
@@ -816,6 +827,9 @@
 ! Adocean : adocean.pl disguised advertising networks
 !#include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/ads/adocean.txt
 !
+! Ad-Shield : ad-shield.cc disguised advertising networks
+!#include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/ads/ad-shield.txt
+!
 ! AdSpyglass : 0i0i0i0.com disguised advertising networks
 ||prettytube.net^
 !#include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/ads/adspyglass.txt
@@ -874,6 +888,7 @@
 !#include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/ads/popcash.txt
 !
 ! Webair : ak-is2.net disguised advertising networks
+||google-analyticals.com^
 ||bidmyqps.xyz^
 ||ctrtraffic.com^
 ||userwave.com^
