@@ -9,6 +9,11 @@
 !
 !
 !
+||organicowner.com^
+||woeful-trash.pro^
+||dullequivalent.com^
+||travelpayouts.com^$third-party
+||red-swimming.com^
 ||tds.favbet.partners^$popup
 ||pbl3citto.com^$all
 ||soonpubplatform.online^
@@ -830,6 +835,9 @@
 !
 ! Adocean : adocean.pl disguised advertising networks
 !#include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/ads/adocean.txt
+!
+! Ad Plus : stat-rock.com disguised advertising networks
+!#include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/ads/ad-plus.txt
 !
 ! Ad-Shield : ad-shield.cc disguised advertising networks
 !#include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/ads/ad-shield.txt
