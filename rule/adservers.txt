@@ -9,6 +9,10 @@
 !
 !
 !
+||wgkulhwedxlpq.website^
+||tinyadz.com^$third-party
+||ghqzwlbuizbw.com^
+||hurarwjrirti.com^
 ||pahtpw.tech^
 ||livestt.co^
 ||skypie.info^
@@ -97,7 +101,6 @@
 ||glugherg.net^$all
 ||feckurteg.net^$all
 ||speedybytes.cfd^$all
-||sikoip.cfd^$all
 ||directsnap.click^$all
 ||land.izuchai.dance^$all
 ||wobbly-birth.com^$all
@@ -126,7 +129,6 @@
 ||cdn2.sales-frontier.com^
 ||cdn.xpln.tech^
 ||countabledawdlerunaudited.com^$all
-||worthwhile-wash.com^$all
 ||iv.hautboyhellen.com^
 ||cfusion-internet.com^$third-party
 ||js.trendmd.com^$third-party
@@ -155,12 +157,10 @@
 ||s.pemsrv.com^$all
 ||primeleech.com^$all
 ||malikiresids.com^$all
-||compassionatecheek.com^$all
 ||anonads.net^$third-party
 ||dlmonitize.com^$all
 ||beyourxfriend.com^$all
 ||linkads.me^$third-party
-||dating.service2u.shop^$all
 ||pushpad.xyz^$third-party
 ||givememmastreams.com^$third-party
 ||huffson-delivery.com^$third-party
@@ -319,7 +319,6 @@
 ||slotscity.g2afse.com^$all
 ||quitzon.net^$all
 ||member.javtvnow.xyz^
-||1ts11.top^$all
 ||spadelack.com^
 ||movies-flix.club^$all
 ||centent.slreamplay.cc^
@@ -346,7 +345,6 @@
 ||z.cdn.adpool.bet^$all
 ||refpakrtsb.top^$all
 ||melredirnxt.top^$all
-||yomaza.net^$third-party
 ||b0f1d2.com^$third-party
 ||getadfinity.com^$third-party
 ||air2s.com^$third-party
@@ -666,7 +664,6 @@
 ||tizermedias.com^$third-party
 ||track.bcvc.mobi^
 ||tracking.cirrusinsight.com^
-||traforet.com^$third-party
 ||tubecontext.com^$third-party
 ||voluumtrk2.com^
 ||wrmcfyzl.com^$third-party
@@ -702,17 +699,10 @@
 !
 ! Fake KMS activators
 ||kms-full.com^$all
-||Kmspico.io^$all
 ||kms-tool.com^$all
-||Kmsauto.info^$all
 ||officialkmspico.com^$all
-||Ultrasonica.info^$all
-||Kms-pc.com^$all
-||Thewindowsactivator.com^$all
-||Get-kmspico.com^$all
 ||getkmspico.com^$all
 ||heukmsactivator.com^$all
-||Furykms.com^$all
 ||getintopc.today^$all
 !
 ! Trillion
@@ -811,6 +801,9 @@
 ! https://github.com/AdguardTeam/FiltersRegistry/pull/937
 ! To fix the issue with the CNAME trackers, add problematic domains here:
 ! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/exclusions.txt
+!
+! RealBig : park.realbig.online disguised advertising networks
+!#include https://adguardteam.github.io/cname-trackers/data/ads/realbig.txt
 !
 ! GoAdserver : go.goadserver.com disguised advertising networks
 !#include https://adguardteam.github.io/cname-trackers/data/ads/goadserver.txt
@@ -919,12 +912,10 @@
 ||adtube.media^
 ||outpush.net^
 ||flurryad.com^
-||resugovex-2.co^
 ||icyads.com^
 ||jambojar.com^
 ||flairads.com^
 ||infinity-info.com^
-||plarimocl.com^
 ||demandzoo.com^
 ||relevanceads.com^
 ||reachableads.com^
@@ -950,7 +941,6 @@
 ||bliss91.com^
 ||80xmedia.com^
 ||topsolutionsmedia.com^
-||iforcircles-1.online^
 ||adpalladium.com^
 ||clixvista.com^
 ||rtbdemand.com^
