@@ -9,6 +9,11 @@
 !
 !
 !
+||stinafulltiukmep.org^$all
+||rel-s.com^
+||config.htplayground.com^
+||parcelconsists.com^$all
+||vast.pet^
 ||sharebang.com^
 ||prebid.scope3.com^
 ||tds.bid^
