@@ -9,6 +9,8 @@
 !
 !
 !
+||k-words.io^$third-party
+||boulder-collide.com^
 ||maxesads.com^
 ||mossfast.com^
 ||ad-host-backup-*.aliyuncs.com^
