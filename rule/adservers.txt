@@ -9,6 +9,13 @@
 !
 !
 !
+||nhgmymxth.com^
+||fqrukpjaahukp.com^
+||yjibimcrcylrg.website^
+||xwdsofoflwimy.website^
+||xl-ads.com^
+||gamengirls.com^$all
+||humiliatedaboveboardwho.com^
 ||egmoytcwvwfnc.website^
 ||cno.jerkmate.net^$all
 ||aifpleasurebeh.org^
@@ -991,6 +998,11 @@
 ||vipads.live^
 !+ NOT_OPTIMIZED
 ||api.smartnews-ads.com^
+!
+! clickaine.com
+/^88\.208\.22\.[1234]:/$network
+/^88\.208\.22\.[1234]$/
+!
 ! Ads in emails
 ad.broadstreetads.com
 ! Required for apps, because on some sites it's not blocked when there is "$third-party" modifier
